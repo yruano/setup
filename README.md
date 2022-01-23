@@ -1,8 +1,7 @@
 # setup
-https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
-
-https://neovim.io/
-
+1. https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170
+2. https://neovim.io/
 
 
-https://github.com/catppuccin/nvim
+
+neovim color scheme https://github.com/catppuccin/nvim
